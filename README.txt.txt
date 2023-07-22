@@ -1,0 +1,1 @@
+first just run "flutter pub get" before trying to run the project to remove the package problems
